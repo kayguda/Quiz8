@@ -18,11 +18,11 @@ The holographic imaging technology in the movie "Blade Runner 2049" is impressiv
 
 The shader() function in p5.js allows you to apply custom shaders in WebGL mode, enabling complex image manipulation effects such as image overlayings, transparency controls, and dynamic visual effects. Using shader(), I can fuse multiple layers of images together to simulate a hologram like visual effect, thus achieving the image technique inspiration mentioned in Part 1.
 
-### 示例代码截图
+### Screenshot of sample code
 
 ![Shader Example](readmeimages/f3e98b9b-0648-4261-b369-b524144af953.png)
 
-### 示例代码链接
+### Example Code link
 
 - [Shader Example code](https://p5js.org/examples/advanced-canvas-rendering-shader-as-a-texture/)
 
